@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar .navbar-brand img {
+    width: 100px;
+    padding: 10px;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-nav .nav-item .nav-link {
+    color: #333;
+    padding: 10px 15px;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-nav .nav-item .nav-link.position-relative {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-nav .nav-item .nav-link img {
+    height: 20px;
+    margin-left: 5px;
+  }
+  
